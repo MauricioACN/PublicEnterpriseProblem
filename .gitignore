@@ -130,3 +130,6 @@ dmypy.json
 
 # remove datasets
 /Datasets
+
+# Ambiente Virtual
+/publicenv
